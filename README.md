@@ -8,7 +8,7 @@ A cheat sheet for developers is a quick reference guide summarizing key concepts
 01 https://overapi.com/java || 02 https://cheatography.com/son9912/cheat-sheets/java-oop-concept/ || 03 https://www.educba.com/category/software-development/software-development-tutorials/java-tutorial/ || 04 https://dev.to/monknomo/java-8-stream-cheatsheet--oad || 05 https://www.jrebel.com/blog/java-streams-cheat-sheet || 06 https://files.jrebel.com/pdf/zt_java8_streams_cheat_sheet.pdf
 
 # Git
-01 http://www.ndpsoftware.com/git-cheatsheet.html || 01 https://overapi.com/git || 02 https://dev.to/maxpou/git-cheat-sheet-advanced-3a17 || 03 https://dev.to/duomly/git-cheatsheet-for-beginners-5apl || 04 https://dev.to/antjanus/my-personal-git-tricks-cheatsheet-23j1 || 05 https://dev.to/hengnee/yet-another-git-cheatsheet-4gjk || 06 https://dev.to/devmount/how-to-correct-git-commit-messages-402d || 07 https://dev.to/devmount/signed-git-commits-in-vs-code-36do
+01 http://www.ndpsoftware.com/git-cheatsheet.html || 02 https://overapi.com/git || 03 https://dev.to/maxpou/git-cheat-sheet-advanced-3a17 || 04 https://dev.to/duomly/git-cheatsheet-for-beginners-5apl || 05 https://dev.to/antjanus/my-personal-git-tricks-cheatsheet-23j1 || 06 https://dev.to/hengnee/yet-another-git-cheatsheet-4gjk || 07 https://dev.to/devmount/how-to-correct-git-commit-messages-402d || 08 https://dev.to/devmount/signed-git-commits-in-vs-code-36do
 
 # Github
 01 https://github.com/tiimgreen/github-cheat-sheet || 02 https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
